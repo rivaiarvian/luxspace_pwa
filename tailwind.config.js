@@ -292,7 +292,8 @@ module.exports = {
         // '"Segoe UI Emoji"',
         // '"Segoe UI Symbol"',
         // '"Noto Color Emoji"',
-        '" Josefin Sans"'
+        // '" Josefin Sans"'
+        '" Open Sans"'
       ],
       serif: [
         "ui-serif",
